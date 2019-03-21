@@ -255,24 +255,59 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 
 
 - MySQL 遇到的死锁问题
+
+[参考](https://www.cnblogs.com/LBSer/p/5183300.htm)
 - 存储引擎的 InnoDB 与 MyISAM
-- 数据库索引的原理
-- 为什么要用 B-tree
+- 数据库索引的原理 为什么要用 B-tree
+
+[参考](https://blog.csdn.net/kennyrose/article/details/7532032)
+
+
 - 聚集索引与非聚集索引的区别
+[参考](https://www.cnblogs.com/aspnethot/articles/1504082.html)
+
 - limit 20000 加载很慢怎么解决
+
+[参考](http://ourmysql.com/archives/1451)
 - 选择合适的分布式主键方案
+
+[参考1](https://juejin.im/post/5bb0217ef265da0ac2567b42)
+
+[参考2](https://my.oschina.net/dolphinboy/blog/864567)
+
+
 - 选择合适的数据存储方案
+[参考](https://juejin.im/entry/58063fa1a0bb9f00589bab86)
+
 - ObjectId 规则
+
+
 - 聊聊 MongoDB 使用场景
+
+[参考](https://www.zhihu.com/question/32071167)
+
+
 - 倒排索引
+[参考](http://www.cnblogs.com/zlslch/p/6440114.html
+
 - 聊聊 ElasticSearch 使用场景
+
+[参考](https://my.oschina.net/90888/blog/1619325)
 
 ### 缓存使用
 
 - Redis 有哪些类型
+[参考](http://www.runoob.com/redis/redis-data-types.html)
+
 - Redis 内部结构
+
+[参考](https://www.cnblogs.com/chenpingzhao/p/6965164.html)
 - 聊聊 Redis 使用场景
+[参考](https://juejin.im/post/5a24c6f2f265da431d3c8204)
+
 - Redis 持久化机制
+[参考](https://blog.csdn.net/u011784767/article/details/76824822)
+
 - Redis 如何实现持久化
 - Redis 集群方案与实现
 - Redis 为什么是单线程的
