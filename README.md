@@ -314,8 +314,8 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 - 缓存奔溃 - 缓存降级 - 使用缓存的合理性问题 [参考](https://blog.csdn.net/xlgen157387/article/details/79530877)
 
 ### 消息队列
-
-- 消息队列的使用场景
+[参考](https://www.swapassn.com/article/57)
+- 消息队列的使用场景[参考](https://juejin.im/post/5add63c951882567183eb956)
 - 消息的重发补偿解决思路
 - 消息的幂等性解决思路
 - 消息的堆积解决思路
@@ -326,9 +326,9 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 
 ### Spring
 
-- BeanFactory 和 ApplicationContext 有什么区别
-- Spring Bean 的生命周期
-- Spring IOC 如何实现
+- BeanFactory 和 ApplicationContext 有什么区别 [参考](https://blog.csdn.net/hi_kevin/article/details/7325554)
+- Spring Bean 的生命周期 [参考](https://www.cnblogs.com/zrtqsk/p/3735273.html)
+- Spring IOC 如何实现 [参考](https://www.jianshu.com/p/9fe5a3c25ab6)
 - 说说 Spring AOP
 - Spring AOP 实现原理
 - 动态代理（cglib 与 JDK）
