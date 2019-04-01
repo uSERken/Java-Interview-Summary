@@ -308,10 +308,10 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 - Redis 持久化机制
 [参考](https://blog.csdn.net/u011784767/article/details/76824822)
 
-- Redis 如何实现持久化
-- Redis 集群方案与实现
-- Redis 为什么是单线程的
-- 缓存奔溃
+- Redis 如何实现持久 [参考1](https://blog.csdn.net/u013905744/article/details/52787413) [参考2](https://www.jianshu.com/p/bedec93e5a7b)
+- Redis 集群方案与实现 [参考](https://juejin.im/post/5a707f4d5188255a8817f5b1)[参考2](https://www.jianshu.com/p/14835303b07e)
+- Redis 为什么是单线程的 [参考](https://blog.csdn.net/xlgen157387/article/details/79470556)             
+- 缓存奔溃 [参考](https://blog.csdn.net/xlgen157387/article/details/79530877)
 - 缓存降级
 - 使用缓存的合理性问题
 
