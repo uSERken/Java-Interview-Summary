@@ -333,14 +333,14 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 - 动态代理（cglib 与 JDK）[参考](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484222&idx=1&sn=5191aca33f7b331adaef11c5e07df468&chksm=ebd7423fdca0cb29cdc59b4c79afcda9a44b9206806d2212a1b807c9f5879674934c37c250a1&scene=21#wechat_redirect)
 - Spring 事务实现方式  - Spring 事务底层原理 [参考](https://juejin.im/post/5b00c52ef265da0b9527609)
 - 如何自定义注解实现功能[参考](https://juejin.im/entry/57e496fd7db2a20063a24a3a)
-- Spring MVC 运行流程
-- Spring MVC 启动流程
-- Spring 的单例实现原理
-- Spring 框架中用到了哪些设计模式
+- Spring MVC 运行流程 [参考](https://www.jianshu.com/p/8a20c547e245)
+- Spring MVC 启动流程 [参考](https://www.jianshu.com/p/dc64d02e49ac)
+- Spring 的单例实现原理 [参考](https://muyinchen.github.io/2017/09/15/Spring5%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-Spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E7%9A%84%E5%8D%95%E4%BE%8B%E5%92%8C%E5%8E%9F%E5%9E%8Bbean/)
+- Spring 框架中用到了哪些设计模式 [参考](https://muyinchen.github.io/2017/07/20/Spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%B8%80)/)
 - Spring 其他产品（Srping Boot、Spring Cloud、Spring Secuirity、Spring Data、Spring AMQP 等）
 
 ### Netty
-
+[参考](https://juejin.im/post/5c81b08f5188257a323f4cef)
 - 为什么选择 Netty
 - 说说业务中，Netty 的使用场景
 - 原生的 NIO 在 JDK 1.7 版本存在 epoll bug
