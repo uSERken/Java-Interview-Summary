@@ -331,9 +331,8 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 - Spring IOC 如何实现 [参考](https://www.jianshu.com/p/9fe5a3c25ab6)[参考](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484247&idx=1&sn=e228e29e344559e469ac3ecfa9715217&chksm=ebd74256dca0cb40059f3f627fc9450f916c1e1b39ba741842d91774f5bb7f518063e5acf5a0#rd)
 - 说说 Spring AO  - Spring AOP 实现原理  [参考](https://juejin.im/post/5b06bf2df265da0de2574ee1)
 - 动态代理（cglib 与 JDK）[参考](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484222&idx=1&sn=5191aca33f7b331adaef11c5e07df468&chksm=ebd7423fdca0cb29cdc59b4c79afcda9a44b9206806d2212a1b807c9f5879674934c37c250a1&scene=21#wechat_redirect)
-- Spring 事务实现方式
-- Spring 事务底层原理
-- 如何自定义注解实现功能
+- Spring 事务实现方式  - Spring 事务底层原理 [参考](https://juejin.im/post/5b00c52ef265da0b9527609)
+- 如何自定义注解实现功能[参考](https://juejin.im/entry/57e496fd7db2a20063a24a3a)
 - Spring MVC 运行流程
 - Spring MVC 启动流程
 - Spring 的单例实现原理
