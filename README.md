@@ -352,25 +352,23 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 - Netty 重连实现
 
 ## 微服务篇
-
+[参考](http://www.spring4all.com/article/962)
 ### 微服务
 
-- 前后端分离是如何做的
-- 微服务哪些框架
-- 你怎么理解 RPC 框架
-- 说说 RPC 的实现原理
-- 说说 Dubbo 的实现原理
-- 你怎么理解 RESTful
+- 前后端分离是如何做的[参考](https://juejin.im/post/5b71302351882560ea4afbb8)
+- 微服务有哪些框架 [参考](https://www.jianshu.com/p/997ad63bd11d)
+- 你怎么理解 RPC 框架 [参考](https://www.zhihu.com/question/25536695)
+- 说说 RPC 的实现原理 [参考](https://www.jianshu.com/p/78f72ccf0377)
+- 说说 Dubbo 的实现原理[参考](https://blog.51cto.com/developerycj/2050104)
+- 你怎么理解 RESTful[参考](https://www.jianshu.com/p/84568e364ee8)
 - 说说如何设计一个良好的 API
-- 如何理解 RESTful API 的幂等性
-- 如何保证接口的幂等性
-- 说说 CAP 定理、 BASE 理论
-- 怎么考虑数据一致性问题
-- 说说最终一致性的实现方案
-- 你怎么看待微服务
-- 微服务与 SOA 的区别
+- 如何理解 RESTful API 的幂等 - 如何保证接口的幂等性 [参考](https://juejin.im/post/5b134000e51d4506b9429e4a)
+- 说说 CAP 定理、 BASE 理论[参考](https://www.cnblogs.com/duanxz/p/5229352.html)
+- 怎么考虑数据一致性问题 [参考](https://juejin.im/entry/5bd1c6eb51882528e5568893)
+- 说说最终一致性的实现方案 [参考](https://yq.aliyun.com/articles/582282#) [参考](https://ehlxr.me/2019/01/25/eventually-consistency/) 
+- 微服务与 SOA 的区别 [参考](https://juejin.im/post/592f87feb123db0064e5ef7c)
 - 如何拆分服务
-- 微服务如何进行数据库管理
+- 如何看待微服务 - 微服务如何进行数据库  [参考](https://juejin.im/post/5b14f55d6fb9a01e6949ab66) [参考](https://blog.csdn.net/konglongaa/article/details/78507910)
 - 如何应对微服务的链式调用异常
 - 对于快速追踪与定位问题
 - 微服务的安全
@@ -407,7 +405,7 @@ Java 中的同步关键字，可以修饰方法，代码块，synchronized 可�
 - 说说你在项目中如何进行性能调优
 
 ## 工程篇
-
+[参考](https://my.oschina.net/xiaomingnevermind/blog/1788967)
 ### 需求分析
 
 - 你如何对需求原型进行理解和拆分
